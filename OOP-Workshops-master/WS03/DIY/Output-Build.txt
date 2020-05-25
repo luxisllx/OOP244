@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: DIY, Configuration: Debug Win32 ------
+1>Mark.cpp
+1>MarksReport.cpp
+1>Generating Code...
+1>C:\Users\luxis\OneDrive\Desktop\Semester 2\OOP - Object Orientated Programming\OOP-Workshops-master\WS03\DIY\MarksReport.cpp(74): error C4700:  uninitialized local variable 'sum' used
+1>Done building project "DIY.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

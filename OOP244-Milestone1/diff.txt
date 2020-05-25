@@ -1,0 +1,14 @@
+In line number 52 of your output:
+The output should be:
+Lunch Menu:
+^
+But your output is: 
+ 1- Omelet
+^
+
+Unmatched character details:
+The character in column 1 is supposed to be:
+  [L] ASCII code(76)
+but you printed
+  [Space] ASCII code(32)
+

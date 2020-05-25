@@ -1,0 +1,6 @@
+﻿  PubApp.cpp
+C:\Users\luxis\OneDrive\Desktop\PrjVal\PubApp.cpp(216,10): warning C4101:  'name': unreferenced local variable
+C:\Users\luxis\OneDrive\Desktop\PrjVal\PubApp.cpp(250,10): warning C4101:  'name': unreferenced local variable
+C:\Users\luxis\OneDrive\Desktop\PrjVal\PubApp.cpp(279,10): warning C4101:  'name': unreferenced local variable
+C:\Users\luxis\OneDrive\Desktop\PrjVal\PubApp.cpp(282,9): warning C4101:  'foundIndex': unreferenced local variable
+  PrjVal.vcxproj -> C:\Users\luxis\OneDrive\Desktop\PrjVal\x64\Debug\PrjVal.exe

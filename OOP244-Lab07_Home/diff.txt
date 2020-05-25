@@ -1,0 +1,14 @@
+In line number 60 of your output:
+The output should be:
+Mohs: 3.50
+      ^
+But your output is: 
+Mohs: 0.50
+      ^
+
+Unmatched character details:
+The character in column 7 is supposed to be:
+  [3] ASCII code(51)
+but you printed
+  [0] ASCII code(48)
+

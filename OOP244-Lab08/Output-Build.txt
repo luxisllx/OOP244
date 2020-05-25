@@ -1,0 +1,7 @@
+﻿1>------ Rebuild All started: Project: in_lab, Configuration: Debug Win32 ------
+1>Pen.cpp
+1>Pencil.cpp
+1>WriteTester.cpp
+1>Generating Code...
+1>in_lab.vcxproj -> C:\Users\luxis\OneDrive\Desktop\WS08\in_lab\Debug\in_lab.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

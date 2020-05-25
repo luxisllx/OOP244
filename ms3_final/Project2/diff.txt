@@ -1,0 +1,14 @@
+In line number 72 of your output:
+The output should be:
+Entere Member id: 12345
+^
+But your output is: 
+Member ID: 12345
+^
+
+Unmatched character details:
+The character in column 1 is supposed to be:
+  [E] ASCII code(69)
+but you printed
+  [M] ASCII code(77)
+
